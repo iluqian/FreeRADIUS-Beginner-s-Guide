@@ -1,7 +1,7 @@
 {"title": "freeradius-beginner-s-guide",
 "version": "1",
 "description": "freeradius 新手指南",
-"author": "liujie <iliujie@gmail.com>",
+"author": "liujie <iliujie59@gmail.com>",
 "plugins": ["disqus"],
 "pluginsConfig": {
     "disqus": {
