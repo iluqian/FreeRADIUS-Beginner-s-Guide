@@ -1,0 +1,11 @@
+{"title": "freeradius-beginner-s-guide",
+"version": "1",
+"description": "python速查手册",
+"author": "liujie <iliujie@gmail.com>",
+"plugins": ["disqus"],
+"pluginsConfig": {
+    "disqus": {
+        "shortName": "freeradius"
+    }
+} 
+}
