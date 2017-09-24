@@ -38,5 +38,9 @@ of what to look for, and how to fix the issue
 
 第十三章. 故障排除。解答许多常见的问题，并给出例子怎样查找和解决问题。
 
+## 阅读本书所需要做的
+
+
+
 
 
