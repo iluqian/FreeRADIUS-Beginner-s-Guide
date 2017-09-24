@@ -24,10 +24,6 @@
 
 第八章. 虚拟服务器。讨论虚拟服务器的各个方面和可能潜在被使用的地方。
 
-Chapter 13, Troubleshooting, works through many common problems, giving examples
-
-of what to look for, and how to fix the issue
-
 第九章. 模块。讨论被 FreeRADIUS 使用的各个模块和怎样配置某个模块的多个实例。
 
 第十章. EAP。 专门讨论一站式EAP\(802.11x和WiFi\)的章节。
