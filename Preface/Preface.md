@@ -40,7 +40,7 @@ of what to look for, and how to fix the issue
 
 ## 阅读本书所需要做的
 
-
+需要熟悉 Linux 并且对TCP/IP 有扎实的理解。 不需要对
 
 
 
