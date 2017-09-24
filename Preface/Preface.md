@@ -24,12 +24,6 @@
 
 第八章. 虚拟服务器。讨论虚拟服务器的各个方面和可能潜在被使用的地方。
 
-Chapter 12, Roaming and Proxying, deals with the RADIUS protocol, which allows the
-
-proxying of authorization and accounting requests. This makes roaming possible. This
-
-chapter covers various aspects of proxying in FreeRADIUS.
-
 Chapter 13, Troubleshooting, works through many common problems, giving examples
 
 of what to look for, and how to fix the issue
@@ -40,5 +34,9 @@ of what to look for, and how to fix the issue
 
 第十一章. 字典。该字典将管理员所看到和使用的名字映射到 RADIUS 协议所使用的数字。
 
-第十二章
+第十二章. 漫游和代理。处理允许授权和计费请求的RADIUS 协议，这让漫游成为可能。本章包含了在 FreeRADIUS 中使用代理的许多方面。
+
+第十三章. 故障排除。解答许多常见的问题，并给出例子怎样查找和解决问题。
+
+
 
