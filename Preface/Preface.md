@@ -48,11 +48,25 @@ of what to look for, and how to fix the issue
 
 ## 约定
 
+In this book, you will find a number of styles of text that distinguish between different
 
+kinds of information. Here are some examples of these styles, and an explanation of
 
+their meaning.
 
+Time for action – heading
 
+1. Action 1
 
+2. Action 2
+
+3. Action 3
+
+Instructions often need some extra explanation so that they make sense, so they are
+
+followed with:
+
+在本
 
 
 
