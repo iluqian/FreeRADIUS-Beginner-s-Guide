@@ -10,7 +10,7 @@
 
 第一章. 介绍 AAA 和 RADIUSFreeRADIUS。介绍 FreeRADIUS 和 RADIUS 协议， 着重介绍了 RADIUS 一些关键的概念，这将帮助用户避免常见的误解。
 
-第二章.安装。 描述在流行的linux发行版上如何从源码编译和安装FreeRADIUS， 也说明使用流行的linux发行版的安装包来安装，将使用流行的 Linux 发布版，如 Ubuntu，SUSE 和 CentOS 来确保广泛的覆盖.
+第二章. 安装。 描述在流行的linux发行版上如何从源码编译和安装FreeRADIUS， 也说明使用流行的linux发行版的安装包来安装，将使用流行的 Linux 发布版，如 Ubuntu，SUSE 和 CentOS 来确保广泛的覆盖.
 
 第三章. 开始使用 FreeRADIUS。对 FreeRADIUS 的许多组件给出了简要的介绍， 也讨论了处理基本Authentication请求的过程。
 
@@ -26,7 +26,7 @@
 
 第九章. 模块。讨论被 FreeRADIUS 使用的各个模块和怎样配置某个模块的多个实例。
 
-第十章. EAP。 专门讨论一站式EAP\(802.11x和WiFi\)的章节。
+第十章. EAP。专门讨论一站式EAP\(802.11x和WiFi\)的章节。
 
 第十一章. 字典。该字典将管理员所看到和使用的名字映射到 RADIUS 协议所使用的数字。
 
