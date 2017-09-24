@@ -22,5 +22,23 @@
 
 第七章. Authorization（授权）。讨论授权的各个方面，包括unlang的使用。
 
-第八章. 虚拟服务器。讨论虚拟服务器的各个方面和可能使用的地方。
+第八章. 虚拟服务器。讨论虚拟服务器的各个方面和可能潜在被使用的地方。
+
+Chapter 12, Roaming and Proxying, deals with the RADIUS protocol, which allows the
+
+proxying of authorization and accounting requests. This makes roaming possible. This
+
+chapter covers various aspects of proxying in FreeRADIUS.
+
+Chapter 13, Troubleshooting, works through many common problems, giving examples
+
+of what to look for, and how to fix the issue
+
+第九章. 模块。讨论被 FreeRADIUS 使用的各个模块和怎样配置某个模块的多个实例。
+
+第十章. EAP。 专门讨论一站式EAP\(802.11x和WiFi\)的章节。
+
+第十一章. 字典。该字典将管理员所看到和使用的名字映射到 RADIUS 协议所使用的数字。
+
+第十二章
 
