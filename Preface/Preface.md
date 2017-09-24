@@ -62,11 +62,11 @@ followed with:
 
 在本书中，你从样式上会发现许多不同信息的区别，下面给出这些样式的例子并解释他们的含义。
 
-#### Time for action 
+#### Time for action
 
 （行动时间），做些具体的操作。
 
-#### What just happened? 
+#### What just happened?
 
 解释您刚刚完成的任务或者指令。
 
@@ -74,9 +74,11 @@ followed with:
 
 突击检验，这些是简短的多项选择题，旨在帮助你检验自己的理解。
 
+#### Have a go hero
 
+实际的挑战。
 
+#### 中括号括起来
 
-
-
+警告和重要的笔记。
 
