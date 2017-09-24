@@ -2,7 +2,9 @@
 
 ---
 
-[序言](/Preface/README.md)
+* [序](/Preface/README.md)
+
+  \*序言
 
 * [第一章 介绍 AAA 和 RADIUS](/Chapter01/README.md)
 
