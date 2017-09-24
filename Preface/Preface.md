@@ -48,12 +48,6 @@ of what to look for, and how to fix the issue
 
 ## 约定
 
-In this book, you will find a number of styles of text that distinguish between different
-
-kinds of information. Here are some examples of these styles, and an explanation of
-
-their meaning.
-
 Time for action – heading
 
 1. Action 1
@@ -66,7 +60,21 @@ Instructions often need some extra explanation so that they make sense, so they 
 
 followed with:
 
-在本
+在本书中，你从样式上会发现许多不同信息的区别，下面给出这些样式的例子并解释他们的含义。
+
+#### Time for action 
+
+（行动时间），做些具体的操作。
+
+#### What just happened? 
+
+解释您刚刚完成的任务或者指令。
+
+#### Pop quiz
+
+突击检验，这些是简短的多项选择题，旨在帮助你检验自己的理解。
+
+
 
 
 
