@@ -44,18 +44,6 @@
 
 ## 约定
 
-Time for action – heading
-
-1. Action 1
-
-2. Action 2
-
-3. Action 3
-
-Instructions often need some extra explanation so that they make sense, so they are
-
-followed with:
-
 在本书中，你从样式上会发现许多不同信息的区别，下面给出这些样式的例子并解释他们的含义。
 
 #### Time for action
