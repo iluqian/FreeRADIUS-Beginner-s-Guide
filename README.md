@@ -1,6 +1,6 @@
 # FreeRADIUS Beginner’s Guide 中文版
 
-> **Learn by doing: less theory, more results. -- **Dirk van der Walt
+> "Learn by doing: less theory, more results". -- Dirk van der Walt
 
 ## 关于作者
 
@@ -8,7 +8,5 @@
 
 ## 关于译者 {#关于译者}
 
-作为从事网络协议开发的程序员，第一次翻译英文书籍，诸多不足之处，欢迎批评建议，有则改之，无则加勉。免费下载本书请[免费下载](http://pan.baidu.com/s/1qYOCUj6)
-
-
+作为从事网络协议开发的程序员，第一次翻译英文书籍，诸多不足之处，欢迎批评建议，有则改之，无则加勉。免费获得本书请Email：iliujie59@gmail.com
 
